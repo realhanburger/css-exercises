@@ -12,6 +12,34 @@ img {
   font-weight: 900;
 }
 
+
+
+/* my editing starts here */
+
+.title {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+
+body {
+  text-align: center;
+}
+
+.intros {
+  display: flex;
+  flex-direction: row;
+  gap: 52px;
+  justify-content: center;
+
+}
+
+.plant {
+  width: 200px;
+  text-wrap: wrap;
+}
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
